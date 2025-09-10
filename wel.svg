@@ -20,7 +20,7 @@
       <feDisplacementMap in="SourceGraphic" in2="noise" scale="3" />
     </filter>
   </defs>
-  <g font-family="Agencyfb, sans-serif" font-size="64" font-weight="bold" fill="#10e6c2ff" letter-spacing="10" filter="url(#glow) url(#glitch)">
+  <g font-family="Agencyfb, sans-serif" font-size="64" font-weight="bold" fill="#00FFFF" letter-spacing="10" filter="url(#glow) url(#glitch)">
     <!-- W -->
     <text id="W" x="25" y="80" opacity="0">W
       <animate attributeName="opacity" from="0" to="1" dur="5s" begin="0.1s" />
