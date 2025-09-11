@@ -64,16 +64,17 @@
   </g>
   
   <!-- Post-animation full welcome text -->
-  <g font-family="Agencyfb, sans-serif" font-size="36" font-weight="bold" fill="#10e6c2ff" filter="url(#glow) url(#welcome-glitch)"
-     text-anchor="middle" letter-spacing="4">
-     
-    <text x="225" y="105" opacity="0">Welcome
+  <g font-family="Agencyfb, sans-serif" font-size="54" font-weight="bold" fill="#10e6c2ff" filter="url(#glow) url(#welcome-glitch)"
+     text-anchor="middle" letter-spacing="10">
+    <text x="200" y="80" opacity="0">
+    WELCOME
       <!-- Fade in after the last letter finishes -->
-      <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="lastLetterAnim.end" fill="freeze" />
-      <!-- Subtle rise-up motion -->
-      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur="2s" begin="lastLetterAnim.end" fill="freeze" additive="sum" />
-      <!-- Enlarge slightly on reveal -->
-      <animateTransform attributeName="transform" type="scale" from="0.95" to="1.12" dur="0.8s" begin="lastLetterAnim.end" fill="freeze" additive="sum" />
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="lastLetterAnim.end" fill="freeze" />
+      <!-- Rise up on reveal -->
+      <animateTransform attributeName="transform" type="translate" from="0 24" to="0 0" dur="1.2s" begin="lastLetterAnim.end" fill="freeze" additive="sum" />
+      <!-- Scale up on reveal -->
+      <animateTransform attributeName="transform" type="scale" from="0.8" to="1.25" dur="1.2s" begin="lastLetterAnim.end" fill="freeze" additive="sum" />
     </text>
+    
   </g>
 </svg>
