@@ -18,11 +18,13 @@
 > **IoT Systems & Full-Stack Developer** based in Rourkela, IN.  
 > Passionate about hardware-software integration, blending sensors with real-time web dashboards.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00E4E4?style=for-the-badge&logo=githubpages&logoColor=black)](https://avisiion.github.io/portfolio/)
+<br/>
 [![Working](https://img.shields.io/badge/Working_On-IoT_Systems-0D1117?style=for-the-badge&logo=target&logoColor=00E4E4)](#)
 [![Learning](https://img.shields.io/badge/Learning-Full_Stack_IoT-0D1117?style=for-the-badge&logo=book&logoColor=00E4E4)](#)
 [![Ask Me](https://img.shields.io/badge/Ask_Me_About-ESP32_&_MERN-0D1117?style=for-the-badge&logo=wechat&logoColor=00E4E4)](#)
 [![Email](https://img.shields.io/badge/Email-mailadarsh0007@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00E4E4)](mailto:mailadarsh0007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E4E4)](https://linkedin.com/in/adarsh-sarangi) 
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E4E4)](https://linkedin.com/in/adarsh-sarangi)
 
 
 ### <img src="https://img.shields.io/badge/Tech%20Stack-0D1117?style=for-the-badge&logo=stackshare&logoColor=00E4E4" alt="Tech Stack" />
