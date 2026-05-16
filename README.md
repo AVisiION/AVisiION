@@ -7,7 +7,7 @@
   </picture>
   <br /><br />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E4E4&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+AVisION;Embedded+Systems+Developer;MERN+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E4E4&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Adarsh;IoT+Enthusiast;Embedded+Systems+Developer;MERN+Stack+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,9 +19,9 @@
 [![Learning](https://img.shields.io/badge/Learning-Full_Stack_IoT-0D1117?style=for-the-badge&logo=book&logoColor=00E4E4)](#)
 [![Ask Me](https://img.shields.io/badge/Ask_Me_About-ESP32_&_MERN-0D1117?style=for-the-badge&logo=wechat&logoColor=00E4E4)](#)
 <br/>
-[![Email](https://img.shields.io/badge/Email-adarshsarangi0@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00E4E4)](mailto:adarshsarangi0@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mailadarsh0007@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00E4E4)](mailto:mailadarsh0007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E4E4)](https://linkedin.com/in/adarsh-sarangi) 
-[![GitHub](https://img.shields.io/badge/Connect-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E4E4)](https://github.com/avisiion)
+
 
 ### <img src="https://img.shields.io/badge/Tech%20Stack-0D1117?style=for-the-badge&logo=stackshare&logoColor=00E4E4" alt="Tech Stack" />
 
@@ -51,16 +51,8 @@
 [![WS2812B](https://img.shields.io/badge/WS2812B_Dashboard-LED_Control-00E4E4?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AVisiION/Lights)  
 > Web dashboard to remotely control WS2812B LEDs with real-time hardware sync.
 
-### <img src="https://img.shields.io/badge/Activity_&_Stats-0D1117?style=for-the-badge&logo=github&logoColor=00E4E4" alt="Activity" />
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AVisiION&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AVisiION&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
+  <p><i>"First, solve the problem. Then, write the code."</i><br>— John Johnson</p>
 </div>
