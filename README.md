@@ -1,11 +1,13 @@
 <div align="center">
+  <img src="banner.png" alt="Profile Banner" width="100%">
+  <br />
   <picture>
     <img src="wel.svg" alt="welcome-svg" width="70%">
   </picture>
   <picture>
     <img src="AVision.svg" alt="a-vision" width="70%">
   </picture>
-
+  <br />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+AVisION;Embedded+Systems+Developer;MERN+Stack+Developer" alt="Typing SVG" />
   </a>
