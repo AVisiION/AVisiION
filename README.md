@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="banner.png" alt="Profile Banner" width="100%">
-  <br />
   <picture>
     <img src="wel.svg" alt="welcome-svg" width="70%">
   </picture>
