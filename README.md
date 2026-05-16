@@ -13,7 +13,7 @@
 
 ---
 
-### <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20About%20Me-0D1117?style=for-the-badge" alt="About Me" />
+### <img src="https://img.shields.io/badge/About%20Me-0D1117?style=for-the-badge&logo=about.me&logoColor=00E4E4" alt="About Me" />
 
 [![Working](https://img.shields.io/badge/Working_On-IoT_Systems-0D1117?style=for-the-badge&logo=target&logoColor=00E4E4)](#)
 [![Learning](https://img.shields.io/badge/Learning-Full_Stack_IoT-0D1117?style=for-the-badge&logo=book&logoColor=00E4E4)](#)
@@ -23,7 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E4E4)](https://linkedin.com/in/adarsh-sarangi) 
 [![GitHub](https://img.shields.io/badge/Connect-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E4E4)](https://github.com/avisiion)
 
-### <img src="https://img.shields.io/badge/-%F0%9F%92%BB%20Tech%20Stack-0D1117?style=for-the-badge" alt="Tech Stack" />
+### <img src="https://img.shields.io/badge/Tech%20Stack-0D1117?style=for-the-badge&logo=stackshare&logoColor=00E4E4" alt="Tech Stack" />
 
 **Languages & Core:**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -43,7 +43,7 @@
 ![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
-### <img src="https://img.shields.io/badge/-%F0%9F%9B%A0%EF%B8%8F%20Featured%20Projects-0D1117?style=for-the-badge" alt="Featured Projects" />
+### <img src="https://img.shields.io/badge/Featured%20Projects-0D1117?style=for-the-badge&logo=github&logoColor=00E4E4" alt="Featured Projects" />
 
 [![SproutSense](https://img.shields.io/badge/SproutSense-IoT_Dashboard-00E4E4?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AVisiION/SproutSense)  
 > IoT environmental monitor with embedded C and MERN dashboard.
@@ -51,8 +51,16 @@
 [![WS2812B](https://img.shields.io/badge/WS2812B_Dashboard-LED_Control-00E4E4?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AVisiION/Lights)  
 > Web dashboard to remotely control WS2812B LEDs with real-time hardware sync.
 
-### 📈 Stats
+### <img src="https://img.shields.io/badge/Activity_&_Stats-0D1117?style=for-the-badge&logo=github&logoColor=00E4E4" alt="Activity" />
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AVisiION&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVisiION&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=AVisiION&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AVisiION&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
 </div>
